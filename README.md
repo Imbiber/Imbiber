@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imbiber&show_icons=true&locale=en" alt="imbiber" /></p>
 
  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imbiber&" alt="imbiber" /></p> -->
+ [![An image of @imbiber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbiber)](https://holopin.io/@imbiber)
