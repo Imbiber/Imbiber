@@ -1,4 +1,4 @@
-<!--![NG_Banner](https://github.com/Imbiber/Imbiber/blob/main/banner4.png) -->
+
 [![An image of @imbiber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbiber)](https://holopin.io/@imbiber)
 
 
