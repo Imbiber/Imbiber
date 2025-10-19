@@ -12,7 +12,7 @@
 🚀 Passionate about **Next.js**, **TypeScript**, and **Dockerized deployments**.  
 🧩 I enjoy simplifying complex problems through clean, modular code.  
 📫 Reach me at: **ng19nishant@gmail.com**  
-♟️ Fun fact: I’m a **chess lover** and a **touch typist (700+ WPM)** 👨‍💻  
+♟️ Fun fact: I’m a **chess lover** and a **touch typist (70+ WPM)** 👨‍💻  
 
 ---
 
