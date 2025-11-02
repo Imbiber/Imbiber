@@ -1,6 +1,5 @@
-[![An image of @imbiber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbiber)](https://holopin.io/@imbiber)
-<br>
-
+[![An image of @imbiber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbiber)](https://holopin.io/@imbiber) <br>
+---
 
 # 👋 Hey there, I'm **Nishant Gaurav**  
 
