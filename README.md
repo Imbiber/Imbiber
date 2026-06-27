@@ -1,112 +1,188 @@
-[![An image of @imbiber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbiber)](https://holopin.io/@imbiber) <br>
----
+<p align="center">
+  <img src="./developer_header.svg" alt="Nishant Gaurav Header" width="100%" />
+</p>
 
-# 👋 Hey there, I'm **Nishant Gaurav**  
+<p align="center">
+  <a href="https://linkedin.com/in/nishantgaurav19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/imbiberr" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
+  <a href="https://discord.gg/VtTy2HPR" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://leetcode.com/imbiber/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://nishant-portfolio-imbiber.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-🎯 **Software Engineer | Full Stack Developer | Open Source Contributor**  
-💻 Building impactful, scalable solutions — from backend architecture to modern web interfaces.  
-
----
-
-## 💫 About Me  
-
-🚀 Passionate about **Next.js**, **TypeScript**, and **Dockerized deployments**.  
-🧩 I enjoy simplifying complex problems through clean, modular code.  
-📫 Reach me at: **ng19nishant@gmail.com**  
-♟️ Fun fact: I’m a **chess lover** and a **touch typist (70+ WPM)** 👨‍💻  
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantgaurav19)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/imbiberr)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VtTy2HPR)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-wUr8iu_H-L-oNOLA8gBnQ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-portfolio-imbiber.vercel.app)
+<p align="center">
+  <a href="https://holopin.io/@imbiber" target="_blank">
+    <img src="https://holopin.me/imbiber" alt="@imbiber's Holopin Board" width="100%" style="max-width: 680px;" />
+  </a>
+  <br>
+  <sub style="color: #64748b;">Verified Open Source Badges &amp; Accomplishments</sub>
+</p>
 
 ---
 
-## 💻 Tech Stack  
+## 🏗️ System Architecture
 
-### 🧠 Languages  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+A system design overview of how I build, deploy, and interact with technology:
 
----
+```mermaid
+flowchart TD
+    %% Core Node
+    Developer["👤 Nishant Gaurav"]
+    
+    %% Main Subgraphs
+    subgraph Frontend["🌐 Frontend Subsystem"]
+        Next["Next.js & TypeScript"]
+        Tailwind["Tailwind CSS & Design Systems"]
+    end
+    
+    subgraph Backend["⚙️ Engine Core"]
+        Node["Node.js & Express"]
+        DB["PostgreSQL / Prisma / MongoDB"]
+    end
+    
+    subgraph Infrastructure["☁️ Cloud & Ops"]
+        Docker["Docker Containers"]
+        CI["GitHub Actions & AWS"]
+    end
 
-### 🌐 Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-%230076D6.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23F2F2F2.svg?style=for-the-badge&logo=uiuxdesign&logoColor=black)
-![Lucide React](https://img.shields.io/badge/Lucide_React-%23F1E05A.svg?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    subgraph Hobbies["♟️ Background Tasks"]
+        Chess["Chess (1100 Elo)"]
+        Typing["Touch Typing (70+ WPM)"]
+    end
 
----
+    subgraph AICopilot["🤖 AI Coprocessors"]
+        Antigravity["Antigravity / Gemini"]
+        Claude["Claude / GPT-4"]
+        Assistants["Cursor / v0 / DeepSeek"]
+    end
 
-### ⚙️ Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo-%23311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23007396.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### ☁️ DevOps, Cloud & Tools  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+    %% Relations
+    Developer ==> Frontend
+    Developer ==> Backend
+    Developer ==> Infrastructure
+    Developer ==> Hobbies
+    Developer <==>|"Augmented Flow"| AICopilot
+    
+    %% Styling
+    classDef default fill:#0b0f19,stroke:#1e293b,stroke-width:1px,color:#e2e8f0;
+    classDef developer fill:#6366f1,stroke:#a855f7,stroke-width:2px,color:#ffffff;
+    classDef highlight fill:#10172a,stroke:#818cf8,stroke-width:1.5px,color:#cbd5e1;
+    
+    class Developer developer;
+    class Next,Tailwind,Node,DB,Docker,CI,Chess,Typing,Antigravity,Claude,Assistants highlight;
+```
 
 ---
 
-## 📊 GitHub Stats  
+### 📜 Career Commit Log (`git log --oneline`)
 
-![](https://github-readme-stats.vercel.app/api?username=imbiber&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=imbiber&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imbiber&theme=tokyonight&hide_border=false&layout=compact)
+```git
+* 61e8247 (HEAD -> main) feat: master full-stack scaling & Next.js architectures (Present)
+* fc770a3 feat: dockerize deployments & build automated CI/CD pipelines (DevOps)
+* faf4530 feat: specialize in TypeScript, GraphQL, and modern DB systems (Backend)
+* bd9e897 feat: optimize touch typing to 70+ WPM & tactical chess (hobbies)
+* 11956a0 init: start coding journey, simplifying complex problems with clean code (init)
+```
 
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=imbiber&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Developer Quote  
-> “Learning never stops — hackathons, open source, and teamwork are how I grow as a developer.”  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> 📧 Reachable for collaborations, contracts, or engineering roles at [ng19nishant@gmail.com](mailto:ng19nishant@gmail.com).
 
 ---
 
-## 😂 Random Dev Meme  
-<img src="https://randommeme-five.vercel.app/" height="400"/>
+## 💻 Tech Arsenal
+
+<table>
+  <tr>
+    <td>
+      <b>🧠 Languages &amp; Fundamentals</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,bash,html,css&theme=dark" alt="Languages" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🌐 Frontend Frameworks &amp; Styling</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,vite,threejs,figma&theme=dark" alt="Frontend" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>⚙️ Backend, Databases &amp; APIs</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,postgres,mongodb,sqlite,redis&theme=dark" alt="Backend" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>☁️ DevOps, Cloud &amp; Tools</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,prometheus,grafana,vscode,notion&theme=dark" alt="DevOps" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🤖 AI &amp; Agentic Coding Tools</b><br><br>
+      <img src="https://img.shields.io/badge/Antigravity_AI-6366F1?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity AI" />
+      <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
+      <img src="https://img.shields.io/badge/ChatGPT-74A89C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+      <img src="https://img.shields.io/badge/OpenAI_Codex-5F5F5F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+      <img src="https://img.shields.io/badge/Cursor-1F212A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0 by Vercel" />
+      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=imbiber&icon=0&color=1)](https://visitcount.itsvg.in)  
-*Crafted with ❤️ by Nishant Gaurav*
+## 📊 GitHub Diagnostics & Activity
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top">
+    <td width="48%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=imbiber&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="4%"></td>
+    <td width="48%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbiber&theme=tokyonight&layout=compact&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr valign="top">
+    <td colspan="3" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imbiber&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top">
+    <td width="48%">
+      <h2>✍️ Developer Quote</h2>
+      <blockquote>
+        “Learning never stops — hackathons, open source, and teamwork are how I grow as a developer.”
+      </blockquote>
+    </td>
+    <td width="4%"></td>
+    <td width="48%">
+      <h2>😂 Dev Humor</h2>
+      <p align="center">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="100%" style="border-radius: 8px;" alt="Dev Joke" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Quote Graphic" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imbiber&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <em>Crafted with 💖 and precision by Nishant Gaurav</em>
+</p>
