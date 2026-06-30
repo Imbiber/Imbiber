@@ -22,7 +22,7 @@
 
 ## 🏗️ System Architecture
 
-A system design overview of how I build, deploy, and interact with technology:
+A system architecture mapping of how I build, deploy, and interact with technology:
 
 ```mermaid
 flowchart TD
