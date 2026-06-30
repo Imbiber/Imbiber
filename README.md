@@ -84,7 +84,7 @@ flowchart TD
 * 11956a0 init: start coding journey, simplifying complex problems with clean code (init)
 ```
 
-> 📧 Reachable for collaborations, contracts, or engineering roles at [ng19nishant@gmail.com](mailto:ng19nishant@gmail.com).
+> 📧 Open for collaborations, contracts, or engineering roles at [ng19nishant@gmail.com](mailto:ng19nishant@gmail.com).
 
 ---
 
